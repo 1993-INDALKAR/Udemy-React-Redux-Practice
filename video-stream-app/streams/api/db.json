@@ -1,0 +1,20 @@
+{
+  "streams": [
+    {
+      "title": "jhb",
+      "description": "jhkbj",
+      "id": 1
+    },
+    {
+      "title": "hello",
+      "description": "inserted hello",
+      "userId": "104427841311501650632",
+      "id": 2
+    },
+    {
+      "title": "Reduce code",
+      "description": "create formstream",
+      "id": 4
+    }
+  ]
+}
